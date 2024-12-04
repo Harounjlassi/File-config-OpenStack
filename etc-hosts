@@ -1,0 +1,28 @@
+127.0.0.1       localhost
+#127.0.1.1      wassim-virtual-machine
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+# controller
+10.0.0.11       controller
+
+# compute1
+10.0.0.31       compute1
+
+# compute2
+10.0.0.32       compute2
+
+# compute3
+10.0.0.33       compute3
+
+# block1
+10.0.0.41       block1
+
+# object1
+10.0.0.51       object1
+
+# object2
+10.0.0.52       object2
